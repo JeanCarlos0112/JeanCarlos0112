@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Jean Carlos</h1>
-<h3 align="center">A passionated Computer Science student</h3>
+<h3 align="center">I'm a passionated Computer Science student and a technology enthusiast, since I was 10 years old I've been studying different topics about technology. For as long as I can remember, I have always been very curious about everything and never spared any effort to find out why something happened, in 2014 it was the first time I had contact with the internet and when I came across it all I was amazed, but very curious at the same time to know how it all works, since then I have always been updating my knowledge in technology, which motivated me a lot to study a degree in Computer Science at PUC MINAS - Coração Eucaristico Unit.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeancarlos0111&label=Profile%20views&color=blueviolet&style=flat" alt="jeancarlos0111" /> </p>
 
