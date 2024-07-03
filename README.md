@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeancarlos0111" alt="jeancarlos0111" /></a> </p>
 
-- 🌱 I’m currently learning **java, python and javascript**
+- 🌱 I’m currently learning **c, c++, c# and web development**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **C, C++, C# and Javascript**
 
 - 📫 How to reach me **jeanlopes166@gmail.com**
 
