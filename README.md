@@ -1,39 +1,62 @@
 <div align="center">
-  <h1>Hi Folks, I'm Jean Carlos! 👋</h1>
+  <!-- 1. Título Animado (Efeito de Digitação) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=435&lines=Hi+Folks,+I'm+Jean+Carlos!+%F0%9F%91%8B;Computer+Science+Student;Technology+Enthusiast" alt="Typing SVG" />
+  </a>
   
-  <h3>Computer Science Student @ PUC Minas | Tech Enthusiast</h3>
-
   <br/>
 
+  <!-- Visitors Badge -->
   <img src="https://komarev.com/ghpvc/?username=JeanCarlos0112&color=blueviolet&style=flat&label=Visitors&abbreviated=true" alt="Visitors" />
-  
-  <br/><br/>
-  <p align="center" width="400px">
-    I've been passionate about technology since I was 10 years old. My journey started in 2014 when I first explored the internet and felt the urge to understand how everything works behind the scenes. <br/>
-    Currently, I'm pursuing a degree in <b>Computer Science</b> at PUC Minas (Coração Eucarístico Campus) and constantly updating my stack.
-  </p>
-
-  <br/>
-
-  🌱 I’m currently learning <b>C, C++, C# and Web Development</b><br/>
-  💬 Ask me about <b>C, C++, C# and JavaScript</b><br/>
-  📫 Reach me at <b>jeanlopes166@gmail.com</b>
-
-  <br/><br/>
-
-  <div align="center">
-    <a href="https://instagram.com/jeancar011" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-    <a href="https://www.linkedin.com/in/jeancarll" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:jeanlopes166@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-  </div>
 </div>
 
+<br/>
+
+<!-- 2. Layout em Duas Colunas (Texto + GIF) -->
+<div align="center">
+<table border="0">
+  <tr>
+    <td width="60%" align="left" valign="center">
+      <h3>🚀 About Me</h3>
+      <p>
+        I've been passionate about technology since I was 10 years old. My journey started in 2014 when I first explored the internet and felt the urge to understand how everything works behind the scenes.
+      </p>
+      <p>
+        Currently, I'm pursuing a degree in <b>Computer Science</b> at PUC Minas (Coração Eucarístico Campus) and constantly updating my stack.
+      </p>
+      <br/>
+      <!-- Lista de Interesses -->
+      🌱 I’m currently learning <b>C, C++, C# and Web Development</b><br/>
+      💬 Ask me about <b>C, C++, C# and JavaScript</b><br/>
+      📫 Reach me at <b>jeanlopes166@gmail.com</b>
+      
+      <br/><br/>
+      
+      <!-- 3. Botões de Contato Compactos -->
+      <div align="left">
+        <a href="https://instagram.com/jeancar011" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+        </a>
+        <a href="https://www.linkedin.com/in/jeancarll" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="mailto:jeanlopes166@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+      </div>
+    </td>
+    
+    <!-- GIF Ilustrativo (Ocupa o espaço vazio da direita) -->
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif" />
+      <!-- Opção alternativa se quiser um desenho estático: -->
+      <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="200" /> -->
+    </td>
+  </tr>
+</table>
+</div>
+
+<br/>
 <hr/>
 
 <h3 align="center">🛠️ Languages and Tools</h3>
