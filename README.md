@@ -1,100 +1,181 @@
 <div align="center">
+  
+  <!-- Animated Header -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jean%20Carlos&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
+  
+  <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Jean+Carlos+%F0%9F%91%8B;Computer+Science+Student;Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Jean+Carlos+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%9A%80;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
   </a>
   
   <br/>
-
-  <img src="https://komarev.com/ghpvc/?username=JeanCarlos0112&color=blueviolet&style=flat&label=Visitors&abbreviated=true" alt="Visitors" />
+  
+  <!-- Visitor Badge -->
+  <img src="https://komarev.com/ghpvc/?username=JeanCarlos0112&color=6366f1&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  
 </div>
 
 <br/>
 
+<!-- About Me Section -->
 <div align="center">
-<table border="0">
-  <tr>
-    <td width="60%" align="left" valign="center">
-      <h3>🚀 About Me</h3>
-      <p>
-        I've been passionate about technology since I was 10 years old. My journey started in 2014 when I first explored the internet and felt the urge to understand how everything works behind the scenes.
-      </p>
-      <p>
-        Currently, I'm pursuing a degree in <b>Computer Science</b> at PUC Minas (Coração Eucarístico Campus) and constantly updating my stack.
-      </p>
-      <br/>
-      🌱 I’m currently learning <b>C, C++, C# and Web Development</b><br/>
-      💬 Ask me about <b>C, C++, C# and JavaScript</b><br/>
-      📫 Reach me at <b>jeanlopes166@gmail.com</b>
-      <br/><br/>
-      <div align="left">
-        <a href="https://instagram.com/jeancar011" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-        </a>
-        <a href="https://www.linkedin.com/in/jeancarll" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-        <a href="mailto:jeanlopes166@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-      </div>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif" />
-    </td>
-  </tr>
-</table>
+  
+  ### 👨‍💻 About Me
+  
+</div>
+
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" />
+
+```yaml
+name: Jean Carlos
+located_in: Brazil
+education: 
+  - "Computer Science @ PUC Minas"
+  - "Coração Eucarístico Campus"
+  
+current_focus:
+  - "Building scalable applications"
+  - "Mastering Data Structures & Algorithms"
+  - "Web Development & Cloud Technologies"
+
+interests: ["Software Development", "Problem Solving", "Open Source"]
+```
+
+<br/>
+
+🔭 **Currently Working On:** Expanding my knowledge in C, C++, C# and modern Web Development frameworks
+
+🌱 **Currently Learning:** Advanced programming concepts, software architecture, and best practices
+
+💡 **Ask Me About:** C, C++, C#, JavaScript, Data Structures, and Algorithms
+
+🎯 **2024 Goals:** Contribute to more open-source projects and build impactful solutions
+
+💬 **Fun Fact:** I've been passionate about technology since age 10 when I first explored the internet in 2014
+
+📧 **Reach Me:** [jeanlopes166@gmail.com](mailto:jeanlopes166@gmail.com)
+
+<br clear="both"/>
+
+---
+
+<!-- Connect With Me -->
+<div align="center">
+  
+  ### 🤝 Connect With Me
+  
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jeancar011)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeancarll)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeanlopes166@gmail.com)
+  
 </div>
 
 <br/>
-<hr/>
 
-<h3 align="center">🛠️ Languages and Tools</h3>
+---
 
+<!-- Tech Stack -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" style="margin: 0 10px;" />
+  
+  ### 🛠️ Tech Stack
+  
+  #### Programming Languages
+  
+  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  
+  #### Web Development
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  
+  #### Databases
+  
+  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+  
+  #### Tools & Technologies
+  
+  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+  
+</div>
+
+<br/>
+
+---
+
+<!-- GitHub Stats -->
+<div align="center">
+  
+  ### 📊 GitHub Statistics
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JeanCarlos0112&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="Jean's GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JeanCarlos0112&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="Jean's Streak Stats" />
   
   <br/><br/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="mariadb" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle" style="margin: 0 10px;" />
-
-  <br/><br/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop" style="margin: 0 10px;" />
-</div>
-
-<br/><hr/>
-
-<div align="center">
-  <a href="https://github.com/JeanCarlos0112">
-    <img src="https://github-readme-stats.vercel.app/api?username=JeanCarlos0112&show_icons=true&theme=dracula&hide_border=true" alt="Jean's Github Stats" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlos0112&layout=compact&theme=dracula&hide_border=true" alt="Jean's Top Langs" height="150" />
-  </a>
   
-  <br/><br/>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=JeanCarlos0112&theme=dracula&hide_border=true&border_radius=4&mode=weekly)](https://git.io/streak-stats)
-    
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlos0112&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=JeanCarlos0112&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Activity Graph" />
+  
 </div>
 
 <br/>
 
+---
+
+<!-- GitHub Trophies -->
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JeanCarlos0112&margin-w=15&no-bg=true" alt="JeanCarlos0112 Trophies" />
-  </a>
+  
+  ### 🏆 GitHub Trophies
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=JeanCarlos0112&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  
+</div>
+
+<br/>
+
+---
+
+<!-- Contribution Snake -->
+<div align="center">
+  
+  ### 🐍 Contribution Snake
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeanCarlos0112/JeanCarlos0112/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeanCarlos0112/JeanCarlos0112/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JeanCarlos0112/JeanCarlos0112/output/github-contribution-grid-snake.svg">
+  </picture>
+  
+</div>
+
+<br/>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  
+  ### 💭 Random Dev Quote
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  
+  <br/>
+  
+  **⭐ From [JeanCarlos0112](https://github.com/JeanCarlos0112) with 💜**
+  
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+  
 </div>
