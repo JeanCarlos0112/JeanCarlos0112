@@ -14,11 +14,23 @@
   <h3> <b>👨‍💻 About Me </b> </h3>
 </div>
 
-| My Profile | |
-| :--- | :---: |
-| ```yaml<br>name: Jean Carlos<br>located_in: Brazil<br>education:<br>  - "Computer Science @ PUC Minas"<br>  - "Coração Eucarístico Campus"<br>current_focus:<br>  - "Building scalable applications"<br>  - "Mastering Data Structures & Algorithms"<br>  - "Web Development & Cloud Technologies"<br>interests: ["Software Development", "Open Source"]<br>``` | <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Gif" /> |
+<img align="right" height="230" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" alt="Coding Gif" />
 
-<br/>
+```yaml
+name: Jean Carlos
+located_in: Brazil
+education: 
+  - "Computer Science @ PUC Minas"
+  - "Coração Eucarístico Campus"
+  
+current_focus:
+  - "Building scalable applications"
+  - "Mastering Data Structures & Algorithms"
+  - "Web Development & Cloud Technologies"
+
+interests: ["Software Development", "Problem Solving", "Open Source"]
+```
+<br clear="both"/>
 
 🔭 **Currently Working On:** Expanding my knowledge in C, C++, C# and modern Web Development frameworks
 
