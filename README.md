@@ -149,7 +149,6 @@ interests: ["Software Development", "Problem Solving", "Open Source"]
 
 ---
 
-<!-- Contribution Snake -->
 <div align="center">
   
   ### 🐍 Contribution Snake
