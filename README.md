@@ -10,7 +10,9 @@
 
 <br/>
 
+<div align="center">
 ### 👨‍💻 About Me
+</div>
 
 | My Profile | |
 | :--- | :---: |
