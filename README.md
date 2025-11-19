@@ -122,7 +122,7 @@ interests: ["Software Development", "Problem Solving", "Open Source"]
   ### 📊 GitHub Statistics
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JeanCarlos0112&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="Jean's GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JeanCarlos0112&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="Jean's Streak Stats" />
+  [![Jean's Streak Stats](https://streak-stats.demolab.com/?user=JeanCarlos0112&theme=tokyonight&hide_border=true&border_radius=0&mode=weekly&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&background=0D1117)](https://git.io/streak-stats)
   
   <br/><br/>
   
