@@ -1,7 +1,7 @@
 <div align="center">
   <!-- 1. Título Animado (Efeito de Digitação) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=435&lines=Hi+Folks,+I'm+Jean+Carlos!+%F0%9F%91%8B;Computer+Science+Student;Technology+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=435&lines=+Hi+Folks,+I'm+Jean+Carlos!+%F0%9F%91%8B;Computer+Science+Student;Technology+Enthusiast" alt="Typing SVG" />
   </a>
   
   <br/>
