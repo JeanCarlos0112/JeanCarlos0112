@@ -15,10 +15,7 @@
 <div align="center">
   <h3>👨‍💻 About Me </h3>
 </div>
-
-<div align="right">
-  <img width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" />
-</div>
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" />
 
 ```yaml
 name: Jean Carlos
