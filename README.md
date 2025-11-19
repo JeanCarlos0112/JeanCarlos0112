@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-### 👨‍💻 About Me
+  <h3> <b>👨‍💻 About Me </b> </h3>
 </div>
 
 | My Profile | |
