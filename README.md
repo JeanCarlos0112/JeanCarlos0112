@@ -112,8 +112,8 @@ interests: ["Software Development", "Problem Solving", "Open Source"]
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlos0112&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=JeanCarlos0112&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Activity Graph" />
+<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlos0112&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
+<img width="59%" src="https://github-readme-activity-graph.vercel.app/graph?username=JeanCarlos0112&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Activity Graph" />
 
 </div>
 
