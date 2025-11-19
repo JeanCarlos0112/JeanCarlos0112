@@ -70,11 +70,14 @@
 
 <div align="center">
   <a href="https://github.com/JeanCarlos0112">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JeanCarlos0112&show_icons=true&theme=dracula&hide_border=true" alt="Jean's Github Stats" height="150" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlos0112&layout=compact&theme=dracula&hide_border=true" alt="Jean's Top Langs" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JeanCarlos0112&show_icons=true&theme=dracula&hide_border=true" alt="Jean's Github Stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlos0112&layout=compact&theme=dracula&hide_border=true" alt="Jean's Top Langs" height="150" />
   </a>
+  
   <br/><br/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JeanCarlos0112&theme=dracula&hide_border=true&border_radius=3.5&mode=weekly" alt="GitHub Streak" />
+  
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=JeanCarlos0112&amp;theme=dracula&amp;hide_border=true&amp;border_radius=4&amp;mode=weekly" alt="GitHub Streak" />
   </a>
 </div>
 
