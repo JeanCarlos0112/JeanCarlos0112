@@ -8,7 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=JeanCarlos0112&color=blueviolet&style=flat&label=Visitors&abbreviated=true" alt="Visitors" />
   
   <br/><br/>
-
   <p align="center" width="400px">
     I've been passionate about technology since I was 10 years old. My journey started in 2014 when I first explored the internet and felt the urge to understand how everything works behind the scenes. <br/>
     Currently, I'm pursuing a degree in <b>Computer Science</b> at PUC Minas (Coração Eucarístico Campus) and constantly updating my stack.
