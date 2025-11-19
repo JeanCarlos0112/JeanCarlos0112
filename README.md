@@ -75,7 +75,7 @@
   </a>
   
   <br/><br/>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=JeanCarlos0112&theme=dracula&hide_border=true&border_radius=4&mode=weekly&fire=EB7C39)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=JeanCarlos0112&theme=dracula&hide_border=true&border_radius=4&mode=weekly)](https://git.io/streak-stats)
     
 </div>
 
