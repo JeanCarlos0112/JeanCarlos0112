@@ -119,17 +119,6 @@ interests: ["Software Development", "Problem Solving", "Open Source"]
 
 <br/>
 
----
-
-<div align="center">
-  <h3> <b>🏆 GitHub Trophies</b> </h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=JeanCarlos0112&theme=tokyonight" alt="Trophies" />
-</div>
-
-<br/>
-
----
-
 <div align="center">
 
 ### 🐍 Contribution Snake
