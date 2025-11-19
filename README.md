@@ -122,10 +122,10 @@ interests: ["Software Development", "Problem Solving", "Open Source"]
 ---
 
 <div align="center">
-
-### 🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=JeanCarlos0112&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github-profile-trophy.vercel.app/?username=JeanCarlos0112&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+  
+  ### 🏆 GitHub Trophies
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=JeanCarlos0112&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
 
 </div>
 
