@@ -75,10 +75,9 @@
   </a>
   
   <br/><br/>
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=JeanCarlos0112&theme=dracula&hide_border=true&border_radius=4&mode=weekly)](https://git.io/streak-stats)
   
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=JeanCarlos0112&theme=dracula&hide_border=true&border_radius=4&mode=weekly" alt="GitHub Streak" />
-  </a>
 </div>
 
 <br/>
