@@ -25,14 +25,10 @@
         Currently, I'm pursuing a degree in <b>Computer Science</b> at PUC Minas (Coração Eucarístico Campus) and constantly updating my stack.
       </p>
       <br/>
-      <!-- Lista de Interesses -->
       🌱 I’m currently learning <b>C, C++, C# and Web Development</b><br/>
       💬 Ask me about <b>C, C++, C# and JavaScript</b><br/>
       📫 Reach me at <b>jeanlopes166@gmail.com</b>
-      
       <br/><br/>
-      
-      <!-- 3. Botões de Contato Compactos -->
       <div align="left">
         <a href="https://instagram.com/jeancar011" target="_blank">
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -45,7 +41,6 @@
         </a>
       </div>
     </td>
-    
     <!-- GIF Ilustrativo (Ocupa o espaço vazio da direita) -->
     <td width="40%" align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif" />
