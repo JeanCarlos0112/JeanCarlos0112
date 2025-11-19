@@ -74,7 +74,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlos0112&layout=compact&theme=dracula&hide_border=true" alt="Jean's Top Langs" height="150" />
   </a>
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=JeanCarlos0112&theme=dracula&hide_border=true" alt="JeanCarlos0112 Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JeanCarlos0112&theme=dracula" alt="GitHub Streak" /></a>
 </div>
 
 <br/>
