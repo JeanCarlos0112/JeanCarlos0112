@@ -1,18 +1,15 @@
 <div align="center">
-  <!-- 1. Título Animado (Efeito de Digitação) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=435&lines= Hi+Folks,+I'm+Jean+Carlos!+%F0%9F%91%8B;Computer+Science+Student;Technology+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Jean+Carlos+%F0%9F%91%8B;Computer+Science+Student;Tech+Enthusiast" alt="Typing SVG" />
   </a>
   
   <br/>
 
-  <!-- Visitors Badge -->
   <img src="https://komarev.com/ghpvc/?username=JeanCarlos0112&color=blueviolet&style=flat&label=Visitors&abbreviated=true" alt="Visitors" />
 </div>
 
 <br/>
 
-<!-- 2. Layout em Duas Colunas (Texto + GIF) -->
 <div align="center">
 <table border="0">
   <tr>
@@ -41,11 +38,8 @@
         </a>
       </div>
     </td>
-    <!-- GIF Ilustrativo (Ocupa o espaço vazio da direita) -->
     <td width="40%" align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif" />
-      <!-- Opção alternativa se quiser um desenho estático: -->
-      <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="200" /> -->
     </td>
   </tr>
 </table>
