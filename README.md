@@ -140,9 +140,8 @@ interests: ["Software Development", "Problem Solving", "Open Source"]
   
   ### 🏆 GitHub Trophies
   
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JeanCarlos0112&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=JeanCarlos0112&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+  
   
 </div>
 
