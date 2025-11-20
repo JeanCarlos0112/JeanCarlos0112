@@ -2,8 +2,8 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jean%20Carlos&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
   <br/>
-  <a href="https://github.com/JeanCarlos0112/JeanCarlos0112/blob/main/README.pt-br.md">
-    <img src="https://img.shields.io/badge/Read_in_english-6366F1?style=for-the-badge&logo=brazil&logoColor=white">
+  <a href="https://github.com/JeanCarlos0112/JeanCarlos0112/blob/main/README.md">
+    <img src="https://img.shields.io/badge/Read_in_english-6366F1?style=for-the-badge" />
   </a>
   <br/>
 
