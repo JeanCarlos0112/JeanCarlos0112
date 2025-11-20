@@ -5,7 +5,7 @@
 <a href="https://github.com/JeanCarlos0112/JeanCarlos0112/blob/main/README.pt-br.md">
     <img src="https://img.shields.io/badge/Lang-Portugu%C3%AAs-green?style=for-the-badge&logo=brazil">
 </a>
-
+<br/><br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Jean+Carlos+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%9A%80;Always+Learning+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=JeanCarlos0112&color=6366f1&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
