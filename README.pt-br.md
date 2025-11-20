@@ -9,7 +9,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=640&lines=Eai!+Meu+nome+%C3%A9+Jean+Carlos+%F0%9F%91%8B;Graduando+em+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Desenvolvedor+Full-Stack++%F0%9F%92%BB;Entusiasta+da+Tecnologia++%F0%9F%9A%80;Sempre+Aprendendo+%F0%9F%8C%B1" alt="Typing SVG" /></a>
 
-  <img src="https://komarev.com/ghpvc/?username=JeanCarlos0112&color=6366f1&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=JeanCarlos0112&color=6366f1&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
@@ -19,7 +19,7 @@
   <h3> <b>👨‍💻 Sobre Mim </b> </h3>
 </div>
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" />
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" />
 
 ```yaml
 name: Jean Carlos
