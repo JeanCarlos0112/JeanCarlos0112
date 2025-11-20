@@ -16,38 +16,38 @@
 <br/>
 
 <div align="center">
-  <h3> <b>👨‍💻 About Me </b> </h3>
+  <h3> <b>👨‍💻 Sobre Mim </b> </h3>
 </div>
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" />
 
 ```yaml
 name: Jean Carlos
-located_in: Brazil
+located_in: Brasil
 education: 
-  - "Computer Science @ PUC Minas"
-  - "Coração Eucarístico Campus"
+  - "Ciência da Computação na PUC Minas"
+  - "Campus Coração Eucarístico"
   
 current_focus:
-  - "Building scalable applications"
-  - "Mastering Data Structures & Algorithms"
-  - "Web Development & Cloud Technologies"
+  - "Desenvolvimento de aplicações escaláveis"
+  - "Dominando Estruturas de Dados e Algoritmos"
+  - "Desenv. Web e Tecnologias Cloud"
 
-interests: ["Software Development", "Problem Solving", "Open Source"]
+interests: ["Desenv. de Software","Resolução de Problemas","Codigo Aberto"]
 ```
 <br clear="both"/>
 
-🔭 **Currently Working On:** Expanding my knowledge in C, C++, C# and modern Web Development frameworks
+🔭 **Trabalhando atualmente em:** Expandir meu conhecimento em C, C++, C# e frameworks modernos de Desenvolvimento Web
 
-🌱 **Currently Learning:** Advanced programming concepts, software architecture, and best practices
+🌱 **Atualmente aprendendo:** Conceitos de programação avançados, arquitetura de softwares e boas práticas
 
-💡 **Ask Me About:** C, C++, C#, JavaScript, Data Structures, and Algorithms
+💡 **Me pergunte sobre:** C, C++, C#, JavaScript, Estrutura de Dados e Algoritmos
 
-🎯 **2024 Goals:** Contribute to more open-source projects and build impactful solutions
+🎯 **Metas para 2026:** Contribuir mais para projetos e construir soluções impactantes
 
-💬 **Fun Fact:** I've been passionate about technology since age 10 when I first explored the internet in 2014
+💬 **Fatos Curiosos:** Eu sou apaixonado por tecnologia desde os meus 10 anos, que foi quando eu tive o primeiro contato com a internet em 2014
 
-📧 **Reach Me:** [jeanlopes166@gmail.com](mailto:jeanlopes166@gmail.com)
+📧 **Como me contatar:** [jeanlopes166@gmail.com](mailto:jeanlopes166@gmail.com)
 
 <br/>
 
@@ -55,7 +55,7 @@ interests: ["Software Development", "Problem Solving", "Open Source"]
 
 <div align="center">
 
-### 🤝 Connect With Me
+### 🤝 Conecte-se Comigo
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jeancar011)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeancarll)
@@ -69,9 +69,9 @@ interests: ["Software Development", "Problem Solving", "Open Source"]
 
 <div align="center">
 
-### 🛠️ Tech Stack
+### 🛠️ Tecnologias Conhecidas
 
-#### Programming Languages
+#### Linguagens de Programação
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -80,7 +80,7 @@ interests: ["Software Development", "Problem Solving", "Open Source"]
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-#### Web Development
+#### Desenvolvimento Web
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -93,7 +93,7 @@ interests: ["Software Development", "Problem Solving", "Open Source"]
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-#### Tools & Technologies
+#### Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -110,7 +110,7 @@ interests: ["Software Development", "Problem Solving", "Open Source"]
 
 <div align="center">
 
-### 📊 GitHub Statistics
+### 📊 Atividade do Meu Perfil
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JeanCarlos0112&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="Jean's GitHub Stats" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=JeanCarlos0112&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="Jean's Streak Stats" />
@@ -126,7 +126,7 @@ interests: ["Software Development", "Problem Solving", "Open Source"]
 
 <div align="center">
 
-### 🐍 Contribution Snake
+### 🐍 Cobrinha da Contribuição
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeanCarlos0112/JeanCarlos0112/output/github-contribution-grid-snake-dark.svg">
@@ -142,13 +142,13 @@ interests: ["Software Development", "Problem Solving", "Open Source"]
 
 <div align="center">
 
-### 💭 Random Dev Quote
+### 💭 Uma citação de um dev aleatorio
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <br/>
 
-**⭐ From [JeanCarlos0112](https://github.com/JeanCarlos0112) with 💜**
+**⭐ De [JeanCarlos0112](https://github.com/JeanCarlos0112) com 💜**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
