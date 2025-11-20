@@ -43,7 +43,7 @@ interests: ["Desenv. de Software","Resolução de Problemas","Codigo Aberto"]
 
 💡 **Me pergunte sobre:** C, C++, C#, JavaScript, Estrutura de Dados e Algoritmos
 
-🎯 **Metas para 2026:** Contribuir mais para projetos e construir soluções impactantes
+🎯 **Metas para 2026:** Investir mais em projetos pessoais e construir soluções impactantes
 
 💬 **Fatos Curiosos:** Eu sou apaixonado por tecnologia desde os meus 10 anos, que foi quando eu tive o primeiro contato com a internet em 2014
 
