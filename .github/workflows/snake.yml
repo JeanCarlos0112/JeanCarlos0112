@@ -1,14 +1,11 @@
 name: Generate Snake
 
 on:
-  # Executa automaticamente a cada 12 horas
   schedule:
     - cron: "0 */12 * * *" 
   
-  # Permite executar manualmente na aba "Actions" para testar
   workflow_dispatch:
   
-  # Executa em todo push na branch master/main (opcional)
   push:
     branches:
     - master
@@ -23,12 +20,10 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          # Nome do usuário do GitHub
           github_user_name: ${{ github.repository_owner }}
-          # Lista de arquivos para gerar (dark e light mode)
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#6366F1&color_dots=#161b22,#312e81,#4338ca,#6366f1,#818cf8
+            dist/github-contribution-grid-snake-dark.svg?color_dots=#161b22,#312e81,#4338ca,#6366f1,#818cf8
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
