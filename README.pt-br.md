@@ -7,9 +7,7 @@
   </a>
   <br/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Eai!+Meu+nome+é+Jean+Carlos+%F0%9F%91%8B;Estudante+de+Ciências+da+Computação+%F0%9F%8E%93;Desenvolvedor+FullStack+%F0%9F%92%BB;Entusiasta+da+Tecnologia+%F0%9F%9A%80;Sempre+Aprendendo+%F0%9F%8C%B1" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=1000&color=6366F&center=true&vCenter=true&width=600&lines=Eai!+Meu+nome+%C3%A9+Jean+Carlos+%F0%9F%91%8B;Graduando+em+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Desenvolvedor+Full-Stack++%F0%9F%92%BB;Entusiasta+da+Tecnologia++%F0%9F%9A%80;Sempre+Aprendendo+%F0%9F%8C%B1" alt="Typing SVG" /></a>
   
   <br/>
 
